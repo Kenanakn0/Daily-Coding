@@ -1,0 +1,20 @@
+{
+  "name": "Günlüğüm",
+  "short_name": "Günlüğüm",
+  "description": "Kişisel notlarını, ruh halini ve anılarını sakladığın özel günlük.",
+  "lang": "tr",
+  "start_url": "defter.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#faf4ea",
+  "theme_color": "#d28560",
+  "icons": [
+    {
+      "src": "icon.png",
+      "sizes": "any",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}

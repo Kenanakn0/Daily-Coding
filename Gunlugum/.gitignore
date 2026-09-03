@@ -1,0 +1,7 @@
+node_modules/
+*.apk
+*.aab
+
+# Repo-wide *.jar rule (for the Java practice scripts) would otherwise
+# swallow the Gradle wrapper jar needed to build this Android project.
+!android/gradle/wrapper/gradle-wrapper.jar

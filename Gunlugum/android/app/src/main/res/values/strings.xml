@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Günlüğüm</string>
+    <string name="title_activity_main">Günlüğüm</string>
+    <string name="package_name">com.kenan.gunlugum</string>
+    <string name="custom_url_scheme">com.kenan.gunlugum</string>
+</resources>
